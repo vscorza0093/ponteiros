@@ -11,7 +11,9 @@ Então se fizermos a operação
 
 a variável index terá o mesmo valor que a variável num, o número 10
 
-Podemos acessar o endereço de memória, de uma variável através do "operador de referência" &  que retornará onde determinada varíavel está armazenada.
+## Referência 
+
+Podemos acessar o endereço de memória de uma variável através do "operador de referência" &  que retornará o endereço de memória onde determinada varíavel está armazenada.
 
     int myAge = 30;
     # myAge = 30
