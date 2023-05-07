@@ -32,7 +32,7 @@ Se quisessemos que a variável index recebesse a variável num para, em outro mo
 
 Uma variável de ponteiro aponta para um tipo de dados do mesmo tipo, então um ponteiro (int*) deve apontar para uma variável (int)
 
-Deferência
+## Deferência
 
 Deferência significa armazenar em uma variável um endereço de memória de outra variável utilizando o "operador de deferência" * 
 
