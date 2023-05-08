@@ -1,4 +1,4 @@
-# Ponteiro
+# Ponteiros
 
 Ponteiro é uma varíavel que armazena um endereço de memória de uma outra variável
 
